@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(236, 242, 226);
+}
+
+.logo{
+    width: 50px;
+    height: auto;
+    object-fit: cover;
+}
+
+.logoShop{
+    width: 25px;
+    height: auto;
+
+}
