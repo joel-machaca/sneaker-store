@@ -1,8 +1,12 @@
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Home from './components/Home'
+
 import NavBar from './components/NavBar'
 import Footer from './components/Footer'
+import CategoryImg from './components/CategoryImg'
+import ItemListContainer from './components/ItemListContainer'
+import Contactos from './components/Contactos'
+import ItemDetailContainer from './components/ItemDetailContainer'
 
 function App() {
 
@@ -10,8 +14,12 @@ function App() {
     <>
       <BrowserRouter>
         <NavBar/>
+        <CategoryImg/>
         <Routes>
-          <Route path='/' element={<Home/>}/>
+          <Route path='/' element={<ItemListContainer/>}/>
+          <Route path='/categoria/:id' element={<ItemListContainer/>}/>
+          <Route path='/contacto' element={<Contactos/>}/>
+          <Route path='/categoria/hombre/item/:id' element={<ItemDetailContainer/>}/>
         </Routes>
         <Footer/>
       </BrowserRouter>
