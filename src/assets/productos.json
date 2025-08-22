@@ -5,15 +5,17 @@
         "description": "Zapatillas de running Nike V5 RNR para mujer",
         "price": 399.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw7572874c/images/hi-res/197862704310_1_20250326-mrtPeru.jpg?sw=500&sh=500",
-        "category": "mujer"
+        "category": "mujer",
+        "stock": 25
     },
     {
         "id": 2,
-        "title": "Nike Air Force 1 '07",
-        "description": "Zapatillas Nike Air Force 1 '07 para mujer",
+        "title": "Nike Air Force 1 '02",
+        "description": "Zapatillas Nike Air Force 1 '02 para mujer",
         "price": 549.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw85308363/images/hi-res/194954083346_1_20240131120000-mrtPeru.jpeg?sw=500&sh=500",
-        "category": "mujer"
+        "category": "mujer",
+        "stock": 30
     },
     {
         "id": 3,
@@ -21,71 +23,80 @@
         "description": "Zapatillas Nike Dunk Low para mujer",
         "price": 699.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw2e3e66bb/images/hi-res/194502193015_1_20240130120000-mrtPeru.jpeg?sw=500&sh=500",
-        "category": "mujer"
+        "category": "mujer",
+        "stock": 20
     },
     {
         "id": 4,
         "title": "Nike V5 RNR",
-        "description": "Zapatillas de running Nike V5 RNR para mujer",
+        "description": "Zapatillas de running Nike V5 RNR para hombre",
         "price": 399.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw31cc0fdb/images/hi-res/198480953913_1_20250724-mrtPeru.jpeg?sw=500&sh=500",
-        "category": "hombre"
+        "category": "hombre",
+        "stock": 22
     },
     {
         "id": 5,
-        "title": "Nike Air Force 1 '07",
-        "description": "Zapatillas Nike Air Force 1 '07 para mujer",
+        "title": "Nike Air Force 1 '03",
+        "description": "Zapatillas Nike Air Force 1 '03 para hombre",
         "price": 599.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw6a619a27/images/hi-res/196153294394_1_20240207-mrtPeru.jpg?sw=500&sh=500",
-        "category": "hombre"
+        "category": "hombre",
+        "stock": 15
     },
     {
         "id": 6,
         "title": "Nike Dunk Low",
-        "description": "Zapatillas Nike Dunk Low para mujer",
+        "description": "Zapatillas Nike Dunk Low para hombre",
         "price": 699.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw5b7ae1f6/images/hi-res/197594627734_1_20250326-mrtPeru.jpg?sw=500&sh=500",
-        "category": "hombre"
+        "category": "hombre",
+        "stock": 20
     },
     {
         "id": 7,
         "title": "Nike V5 RNR",
-        "description": "Zapatillas de running Nike V5 RNR para mujer",
+        "description": "Zapatillas de running Nike V5 RNR para hombre",
         "price": 399.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw7572874c/images/hi-res/197862704310_1_20250326-mrtPeru.jpg?sw=500&sh=500",
-        "category": "mujer"
+        "category": "mujer",
+        "stock": 25
     },
     {
         "id": 8,
-        "title": "Nike Air Force 1 '07",
-        "description": "Zapatillas Nike Air Force 1 '07 para mujer",
+        "title": "Nike Air Force 1 '04",
+        "description": "Zapatillas Nike Air Force 1 '04 para hombre",
         "price": 549.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw85308363/images/hi-res/194954083346_1_20240131120000-mrtPeru.jpeg?sw=500&sh=500",
-        "category": "mujer"
+        "category": "mujer",
+        "stock": 30
     },
     {
         "id": 9,
         "title": "Nike Dunk Low",
-        "description": "Zapatillas Nike Dunk Low para mujer",
+        "description": "Zapatillas Nike Dunk Low para hombre",
         "price": 699.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw2e3e66bb/images/hi-res/194502193015_1_20240130120000-mrtPeru.jpeg?sw=500&sh=500",
-        "category": "mujer"
+        "category": "mujer",
+        "stock": 20
     },
     {
         "id": 10,
         "title": "Nike V5 RNR",
-        "description": "Zapatillas de running Nike V5 RNR para mujer",
+        "description": "Zapatillas de running Nike V5 RNR para hombre",
         "price": 399.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw31cc0fdb/images/hi-res/198480953913_1_20250724-mrtPeru.jpeg?sw=500&sh=500",
-        "category": "hombre"
+        "category": "hombre",
+        "stock": 20
     },
     {
         "id": 11,
-        "title": "Nike Air Force 1 '07",
-        "description": "Zapatillas Nike Air Force 1 '07 para mujer",
+        "title": "Nike Air Force 1 '05",
+        "description": "Zapatillas Nike Air Force 1 '05 para hombre",
         "price": 599.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw6a619a27/images/hi-res/196153294394_1_20240207-mrtPeru.jpg?sw=500&sh=500",
-        "category": "hombre"
+        "category": "hombre",
+        "stock": 15
     },
     {
         "id": 12,
@@ -93,6 +104,7 @@
         "description": "Zapatillas Nike Dunk Low para mujer",
         "price": 699.90,
         "image": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw5b7ae1f6/images/hi-res/197594627734_1_20250326-mrtPeru.jpg?sw=500&sh=500",
-        "category": "hombre"
+        "category": "hombre",
+        "stock": 20
     }
 ]
